@@ -1,5 +1,7 @@
 # Install Split APKs
 
+![Hello](https://raccoon.onyxbits.de/blog/install-split-apk-adb/android-adb-shell.svg "Hello")
+
 This script allows you to install split APK files (App Bundles) onto an Android device using ADB. It handles the manual process of pushing APKs to the device, creating an install session, staging the APKs, and committing the installation.
 
 ## Prerequisites
